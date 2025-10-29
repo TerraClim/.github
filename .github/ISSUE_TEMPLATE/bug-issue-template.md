@@ -1,5 +1,5 @@
 ---
-name: Bug issue template
+name: Bug issue
 about: Report a bug or unexpected behaviour in the project.
 title: ""
 assignees: ''
