@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## 📝 Description
-ipsum
+A clear description of the issue or feature.
 
 ## 📋 Tasks
 - [ ] item 1
@@ -17,4 +17,4 @@ ipsum
 - [ ] item 1
 
 ## 🧪 Testing Notes
-ipsum
+Any additional info on how to verify the fix.
