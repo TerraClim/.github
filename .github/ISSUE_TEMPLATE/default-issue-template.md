@@ -1,5 +1,5 @@
 ---
-name: Default issue template
+name: Default issue
 about: Gives a general guideline of how an issue should be structured.
 title: ''
 labels: ''
